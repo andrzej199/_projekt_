@@ -1,2 +1,2 @@
 # _projekt_
-repozytorium z projektem w ramach szkolenia Data Science
+repozytorium z projektem zaliczeniowym w ramach szkolenia Data Science
